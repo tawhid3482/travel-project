@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgaPSioGDI-i2AmqnGigaVNfUl3vm94yr1DODvhvsKRhIXRBUnB9xWcFCgAplrmi2IlA&usqp=CAU",
+      "name": "Eiffel Tower",
+      "countryName": "France",
+      "price": "$25",
+      "longDescription": "The Eiffel Tower, an iconic landmark in Paris, France, is a global symbol of love and romance. Enjoy breathtaking views of the city from its top."
+    },
+    {
+      "id": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbmZ3uA113TlX969Qxi-lMznB47oLCkhSlQ8ymkLxTz2Yyg05YIA8BePtYhslB35_xVUY&usqp=CAU",
+      "name": "Machu Picchu",
+      "countryName": "Peru",
+      "price": "$30",
+      "longDescription": "Machu Picchu, an ancient Incan city set high in the Andes Mountains of Peru, is one of the most iconic archaeological sites in the world."
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.britannica.com/64/155864-050-34FBD7A2/view-Great-Barrier-Reef-Australia-coast.jpg",
+      "name": "Great Barrier Reef",
+      "countryName": "Australia",
+      "price": "$40",
+      "longDescription": "The Great Barrier Reef is the world's largest coral reef system, located off the coast of Queensland, Australia. It's a paradise for divers and marine enthusiasts."
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppoKtg3-Zll7GLeB2MmwO1cOXp8sQujkszPOoS0Ud8qykkMaJoIrjdQKC7Teg0OyaRdo&usqp=CAU",
+      "name": "Serengeti National Park",
+      "countryName": "Tanzania",
+      "price": "$35",
+      "longDescription": "Serengeti National Park in Tanzania is renowned for its vast savannahs and diverse wildlife, including the Big Five. Experience thrilling safaris here."
+    },
+    {
+      "id": 5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc1ICG5T7g2xXJ1WtWgj3vHtri8D-vjI2aHpRN4nUHroxtSb-cE42IeW_DV64ErM5gu-M&usqp=CAU",
+      "name": "Taj Mahal",
+      "countryName": "India",
+      "price": "$20",
+      "longDescription": "The Taj Mahal, an ivory-white marble mausoleum in Agra, India, is a UNESCO World Heritage Site and an architectural marvel, symbolizing eternal love."
+    },
+    {
+      "id": 6,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT73SW4KrKFT6R70qLVxWbq7lYKL8KS-a675njUGr94fOTSibFqWxtjRD9DrdkguQrl2JE&usqp=CAU",
+      "name": "Grand Canyon",
+      "countryName": "United States",
+      "price": "$45",
+      "longDescription": "The Grand Canyon in Arizona, USA, is a steep-sided canyon carved by the Colorado River. It offers breathtaking panoramic views and hiking trails."
+    },
+    {
+      "id": 7,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjP1ti0TotBKtwsykR_HmVKbaNVOstjr5tBxDlN2uYP2HiB2lyttS0o9359Gmvp2C7M6I&usqp=CAU",
+      "name": "Petra",
+      "countryName": "Jordan",
+      "price": "$28",
+      "longDescription": "Petra, a historical and archaeological city in southern Jordan, is famous for its rock-cut architecture and water conduit system. Explore ancient wonders here."
+    },
+    {
+      "id": 8,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpRIzYQpvFtarbQkrO517S26pTDMcPoD9tnP_vxF4DzM2fR1kh3-pR34aIlNJzEL3auS8&usqp=CAU",
+      "name": "Santorini",
+      "countryName": "Greece",
+      "price": "$50",
+      "longDescription": "Santorini, a picturesque island in the Aegean Sea, is known for its stunning sunsets, white-washed buildings, and crystal-clear waters. A perfect romantic getaway."
+    },
+    {
+      "id": 9,
+      "img": "https://c8.alamy.com/comp/DF0X5E/cityscape-of-the-old-medina-in-marrakech-morocco-africa-DF0X5E.jpg",
+      "name": "Marrakech Medina",
+      "countryName": "Morocco",
+      "price": "$22",
+      "longDescription": "Marrakech Medina, a vibrant and colorful market square in Morocco, is a sensory delight. Immerse yourself in the rich culture, spices, and textiles."
+    },
+    {
+      "id": 10,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShJHPOa3lYXcpCCvLUS7CxqMjIRZFLUKJNGzeZc5GXBD90JCMGVge76-oZ2FroJ2wbeDA&usqp=CAU",
+      "name": "Uluru-Kata Tjuta National Park",
+      "countryName": "Australia",
+      "price": "$38",
+      "longDescription": "Uluru-Kata Tjuta National Park in Australia is home to the iconic sandstone monolith Uluru and the red domes of Kata Tjuta. Discover Aboriginal culture and natural wonders."
+    },
+    {
+      "id": 11,
+      "img": "https://media.istockphoto.com/id/1146262403/photo/woman-wearing-japanese-traditional-kimono-walking-at-historic-higashiyama-district-in-spring.jpg?s=612x612&w=0&k=20&c=0LOWlTmIxZBGblGZafxBWMnobeFW1_Yi0LdFZND2Lzg=",
+      "name": "Kyoto",
+      "countryName": "Japan",
+      "price": "$33",
+      "longDescription": "Kyoto, Japan's ancient capital, is a city of temples, traditional wooden houses, and stunning gardens. Experience the beauty of cherry blossoms and historic shrines."
+    },
+    {
+      "id": 12,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJO72J4vDj6Q4ne8h1Av20ue4AbPeVbBV-9CTQznJy29ErqrNz0d20tVzQGmwW1OaWOI0&usqp=CAU",
+      "name": "Iguazu Falls",
+      "countryName": "Argentina/Brazil",
+      "price": "$28",
+      "longDescription": "Iguazu Falls, located on the border of Argentina and Brazil, is a breathtaking series of waterfalls surrounded by lush rainforest. Experience the power and beauty of nature."
+    }
+  ]
+  
