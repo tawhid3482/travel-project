@@ -6,11 +6,13 @@ import "./index.css";
 import MainlayOut from "./Main/MainlayOut.jsx";
 import Home from "./Home/Home.jsx";
 import Services from "./Services/Services.jsx";
+import ErrorPage from "./ErrorPage/ErrorPage";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <MainlayOut></MainlayOut>,
+    errorElement:<ErrorPage></ErrorPage>,
     children: [
       {
         path: "/",
@@ -21,6 +23,7 @@ const router = createBrowserRouter([
         element: <Services></Services>,
         loader:()=>fetch('/visit.json')
       },
+    
     ],
   },
 ]);

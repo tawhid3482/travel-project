@@ -5,7 +5,7 @@ const ServiceCart = ({item}) => {
 
   return (
     <div>
-      <div className="card w-96 h-[480px] p-4 bg-base-100 shadow-xl">
+      <div className="card w-72 md:w-96 h-[480px] p-4 bg-base-100 shadow-xl">
         <figure>
           <img
             src={img}

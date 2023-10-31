@@ -44,7 +44,7 @@ const Banner = () => {
             </div>
           </div>
           </div>
-          <div className="ml-32 md:ml-64 lg:ml-[475px] ">
+          <div className="ml-32 md:ml-64 lg:ml-[448px] ">
             <button className="btn absolute border-none -bottom-5 text-white bg-cyan-400"><BiFilterAlt className="text-2xl" /> more filters</button>
           </div>
         </div>
